@@ -1,8 +1,4 @@
 {
-  "app": "shop-creator-core",
-  "port": 3000,
-  "build": {
-    "location": "germany"
-  },
-  "disks": []
+  "platform": "docker",
+  "app": "shop-creator-core"
 }
