@@ -1,4 +1,5 @@
 {
   "platform": "docker",
-  "app": "shop-creator-core"
+  "app": "shop-creator-core",
+  "port": 80
 }
