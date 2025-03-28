@@ -1,0 +1,42 @@
+## Build results
+bin/
+obj/
+out/
+publish/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## Docker
+**/docker-compose*.yml
+.dockerignore
+
+## Dotnet tools
+tools/
+
+## Environment files
+.env
+.env.*
+
+## Secrets
+secrets.json
+
+# Visual Studio local settings
+.vs/
+Properties/launchSettings.json
